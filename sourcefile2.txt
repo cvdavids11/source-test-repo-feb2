@@ -1,1 +1,4 @@
-Create a second file to validate forking
+Create a second file to validate forking. Update file to test the merge process.
+
+
+
